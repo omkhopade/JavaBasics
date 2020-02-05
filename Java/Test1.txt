@@ -1,0 +1,23 @@
+Two other entities used by NIO are charsets and selectors. A charset defines the way that bytes are
+mapped to characters. You can encode a sequence of characters into bytes using an encoder. You can
+decode a sequence of bytes into characters using a decoder. A selector supports key-based, nonblocking,
+multiplexed I/O. In other words, selectors enable you to perform I/O through multiple
+channels. Selectors are most applicable to socket-backed channels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        jhjhjjh
